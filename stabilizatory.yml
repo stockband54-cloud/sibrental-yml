@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-09-17 19:07">
+  <shop>
+    <name>SIB Rental</name>
+    <company>SIB Rental Красноярск</company>
+    <url>https://kr.sibrental.com/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="10">Стабилизаторы</category>
+    </categories>
+    <offers>
+      <offer id="301" available="true">
+        <url>https://kr.sibrental.com/products/zhiyun-crane-3-lab</url>
+        <price>1500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <name>Zhiyun Crane 3 Lab</name>
+        <description><![CDATA[Профессиональный трососъемочный стабилизатор для камер весом до 4,5 кг.]]></description>
+        <picture>https://kr.sibrental.com/images/zhiyun-crane-3-lab.jpg</picture>
+      </offer>
+      <offer id="302" available="true">
+        <url>https://kr.sibrental.com/products/dji-ronin-s</url>
+        <price>1300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <name>DJI Ronin-S</name>
+        <description><![CDATA[Одноручный 3-осевой стабилизатор для зеркальных и беззеркальных камер.]]></description>
+        <picture>https://kr.sibrental.com/images/dji-ronin-s.jpg</picture>
+      </offer>
+      <offer id="303" available="true">
+        <url>https://kr.sibrental.com/products/feiyu-ak2000</url>
+        <price>900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <name>Feiyu AK2000</name>
+        <description><![CDATA[Трехосевой электро-стабилизатор с поддержкой камер до 2,2 кг.]]></description>
+        <picture>https://kr.sibrental.com/images/feiyu-ak2000.jpg</picture>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
