@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2025-09-17T19:45:00+07:00">
+  <shop>
+    <name>SIB Rental</name>
+    <company>SIB Rental Красноярск</company>
+    <url>https://kr.sibrental.com/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="10">Стабилизаторы</category>
+    </categories>
+    <offers>
+      <offer id="301" available="true">
+        <url>https://kr.sibrental.com/products/dji-ronin-rs-4-pro</url>
+        <price>3350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <name>DJI Ronin RS 4 Pro</name>
+        <description>Профессиональный стабилизатор для камер высокого класса с расширенными возможностями.</description>
+        <picture>https://kr.sibrental.com/images/dji-ronin-rs-4-pro.jpg</picture>
+      </offer>
+      <offer id="302" available="true">
+        <url>https://kr.sibrental.com/products/dji-ronin-rs-3-pro</url>
+        <price>2680</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <name>DJI Ronin RS 3 Pro</name>
+        <description>Продвинутый 3-осевой стабилизатор для профессиональной видеосъемки.</description>
+        <picture>https://kr.sibrental.com/images/dji-ronin-rs-3-pro.jpg</picture>
+      </offer>
+      <offer id="307" available="true">
+        <url>https://kr.sibrental.com/products/stabilizator-dji-osmo-mobile-7</url>
+        <price>590</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <name>Стабилизатор для телефона DJI Osmo Mobile 7</name>
+        <description>Современный мобильный стабилизатор для создания профессиональных видео на смартфоне.</description>
+        <picture>https://kr.sibrental.com/images/dji-osmo-mobile-7.jpg</picture>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
