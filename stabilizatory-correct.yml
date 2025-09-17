@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-09-17 19:34">
+  <shop>
+    <name>SIB Rental</name>
+    <company>SIB Rental Красноярск</company>
+    <url>https://kr.sibrental.com/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="10">Стабилизаторы</category>
+    </categories>
+    <offers>
+      <offer id="301" available="true">
+        <url>https://kr.sibrental.com/products/dji-ronin-rs-4-pro</url>
+        <price>3350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <name>DJI Ronin RS 4 Pro</name>
+        <description><![CDATA[Профессиональный стабилизатор для камер высокого класса с расширенными возможностями.]]></description>
+        <picture>https://kr.sibrental.com/images/dji-ronin-rs-4-pro.jpg</picture>
+      </offer>
+      <offer id="302" available="true">
+        <url>https://kr.sibrental.com/products/dji-ronin-rs-3-pro</url>
+        <price>2680</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <name>DJI Ronin RS 3 Pro</name>
+        <description><![CDATA[Продвинутый 3-осевой стабилизатор для профессиональной видеосъемки.]]></description>
+        <picture>https://kr.sibrental.com/images/dji-ronin-rs-3-pro.jpg</picture>
+      </offer>
+      <offer id="303" available="true">
+        <url>https://kr.sibrental.com/products/dji-ronin-rs-4</url>
+        <price>2590</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <name>DJI Ronin RS 4</name>
+        <description><![CDATA[Современный стабилизатор DJI для создания плавных кадров при съемке.]]></description>
+        <picture>https://kr.sibrental.com/images/dji-ronin-rs-4.jpg</picture>
+      </offer>
+      <offer id="304" available="true">
+        <url>https://kr.sibrental.com/products/dji-ronin-rs-3-</url>
+        <price>1800</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <name>DJI Ronin RS 3</name>
+        <description><![CDATA[3-осевой стабилизатор для DSLR и беззеркальных камер с улучшенной балансировкой.]]></description>
+        <picture>https://kr.sibrental.com/images/dji-ronin-rs-3.jpg</picture>
+      </offer>
+      <offer id="305" available="true">
+        <url>https://kr.sibrental.com/products/stabilizator-zhiyun-webill-s</url>
+        <price>1490</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <name>Стабилизатор Zhiyun Webill S</name>
+        <description><![CDATA[Компактный и легкий стабилизатор Zhiyun для беззеркальных камер.]]></description>
+        <picture>https://kr.sibrental.com/images/zhiyun-webill-s.jpg</picture>
+      </offer>
+      <offer id="306" available="true">
+        <url>https://kr.sibrental.com/products/электронный-стабилизатор-zhiyun-crane-2</url>
+        <price>1490</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <name>Стабилизатор Zhiyun Crane 2</name>
+        <description><![CDATA[Электронный стабилизатор Zhiyun Crane 2 для профессиональной видеосъемки.]]></description>
+        <picture>https://kr.sibrental.com/images/zhiyun-crane-2.jpg</picture>
+      </offer>
+      <offer id="307" available="true">
+        <url>https://kr.sibrental.com/products/stabilizator-dji-osmo-mobile-7</url>
+        <price>590</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <name>Стабилизатор для телефона DJI Osmo Mobile 7</name>
+        <description><![CDATA[Современный мобильный стабилизатор для создания профессиональных видео на смартфоне.]]></description>
+        <picture>https://kr.sibrental.com/images/dji-osmo-mobile-7.jpg</picture>
+      </offer>
+      <offer id="308" available="true">
+        <url>https://kr.sibrental.com/products/koltsevoj-hvat-tilta-basic-ring-grip-kit-dlya-dji-rs2rs3pro</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <name>Кольцевой хват Tilta Basic Ring Grip Kit для DJI RS2/RS3/Pro</name>
+        <description><![CDATA[Эргономичный кольцевой хват Tilta для удобства работы со стабилизаторами DJI.]]></description>
+        <picture>https://kr.sibrental.com/images/tilta-ring-grip.jpg</picture>
+      </offer>
+      <offer id="309" available="true">
+        <url>https://kr.sibrental.com/products/vertikalnoe-kreplenie-dlya-dji-rs2-rs3-pro</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <name>Вертикальное крепление для DJI RS2 RS3 PRO</name>
+        <description><![CDATA[Специальное вертикальное крепление для стабилизаторов DJI RS2 и RS3 PRO.]]></description>
+        <picture>https://kr.sibrental.com/images/dji-vertical-mount.jpg</picture>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
